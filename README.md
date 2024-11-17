@@ -19,7 +19,6 @@ Open-source projects in the data science domain
 
 Feel free to connect with me via:
 GitHub: @GeethaE27
-LinkedIn: https://www.linkedin.com/in/geetha-e-08a718178/
 Email: [geetha.eswar27@gmail.com]
 
 
